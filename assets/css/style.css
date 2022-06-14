@@ -1,0 +1,16 @@
+#Hero-Section {
+    background-image: url("../imgs/cool-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+
+  .card-img-top {
+    height: 18rem;
+    width: 18rem;
+  }
+
+  .navbar img {
+    width: 30px;
+    height: 30px;
+  }
